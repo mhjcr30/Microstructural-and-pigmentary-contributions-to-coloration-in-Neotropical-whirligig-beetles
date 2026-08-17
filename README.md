@@ -9,13 +9,13 @@ submitted to **PeerJ**.
 
 ## Repository contents
 
-### Figure 4
+### Figure 5 (a) and (b), left in-set:
 
-Figure 4 can be reproduced using the Python notebook:
+These figures can be reproduced using the Python notebook:
 
 - `/Code/Python/Diffraction colors/diffractionv2.ipynb`
 
-### Figure 5
+### Figure 5 (a) and (b), right in-set
 
 Figure 5 can be reproduced using the Python notebooks:
 
@@ -39,6 +39,11 @@ The script requires the peak position data located in:
 ```
 Data/Data_for_spacingFB/
 ```
+### Supplementary Figures S1-3 
+Boxplots can be reproduced using the code located in:
+- `/Code/Python/Boxplot/FigureS1_3.ipynb`
+together with the data 
+Data/Data-for-spacingFB/
 
 ## Software requirements
 
