@@ -9,13 +9,13 @@ submitted to **PeerJ**.
 
 ## Repository contents
 
-### Figure 5 (a) and (b), left in-set:
+### Figure 5 (a) and (b), right side:
 
 These figures can be reproduced using the Python notebook:
 
 - `/Code/Python/Diffraction colors/diffractionv2.ipynb`
 
-### Figure 5 (a) and (b), right in-set
+### Figure 5 (a) and (b), left side
 
 Figure 5 can be reproduced using the Python notebooks:
 
